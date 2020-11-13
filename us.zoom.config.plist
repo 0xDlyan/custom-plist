@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ZAutoJoinVoip</key>
+	<true/>
+	<key>ZAutoSSOLogin</key>
+	<true/>
+	<key>ZDisableVideo</key>
+	<true/>
+	<key>ZRemoteControlAllApp</key>
+	<true/>
+	<key>ZSSOHost</key>
+	<string>mydomain.com.zoom.us</string>
+	<key>ZUse720PByDefault</key>
+	<false/>
+	<key>disableloginwithemail</key>
+	<true/>
+	<key>login_domain</key>
+	<string>mydomain.com</string>
+	<key>nofacebook</key>
+	<false/>
+	<key>nogoogle</key>
+	<false/>
+</dict>
+</plist>
